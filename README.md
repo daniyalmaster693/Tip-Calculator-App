@@ -15,7 +15,7 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 <li> Improved my knowlege about HTML input elements </li>
 <li> Improved my responsive design skills </li>
 <li> Learned about built in Javascript functions such as: toFixed() </li>
-<li> LEarned how to use things like classlist.add and remove to dynamically change the styles of elements </li>
+<li> Learned how to use things like classlist.add and remove to dynamically change the styles of elements </li>
 
 <h2> How did I complete this project? </h2>
 
